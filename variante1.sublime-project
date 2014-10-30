@@ -1,0 +1,22 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"./make.sh"
+			],
+			"file_regex": "^(..[^:]*):(.*)$",
+			"name": "my-cool-test",
+			"working_dir": "${project_path}"
+		}
+	],
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": ".",
+			"file_exclude_patterns":["*.js"]
+		}
+	]
+}
