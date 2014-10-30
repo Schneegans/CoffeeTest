@@ -1,13 +1,20 @@
-<html>
+<html lang="de">
 <head>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Automat für Heißgetränke</title>
+    <script type="text/javascript" src="jquery.min.js"></script>
 </head>
 <body>
-    A: <input type="text" id="a"/><br/>
-    B: <input type="text" id="b"/><br/>
-    <input type="button" value="Calculate greatest common divisor!" id="button"/> <br/>
-    C: <span id="c"/>
-    
-    <script src="test.js"></script>
+	 <h1>Automat für Heißgetränke</h1>
+	 <ul>
+        <li><button id="coffee">Kaffee</button></li>
+        <li><button id="tea">Tee</button></li>
+        <li><button id="broth">Gemüsebrühe</button></li>
+    </ul>
+	 <span id="Output"/>
+    <script src="automat.js"></script>
+	 <script src="Coffee.js"></script>
+	 <script src="Tea.js"></script>
+	 <script src="Broth.js"></script>
 </body>
 </html>
