@@ -2,7 +2,7 @@ class Beverage
 	constructor: (@name) ->
 
 	getBeverage: (price) ->
-		if price not 0 
+		if price > 0 
 			$("#out").html "Ihr " + @name + " kostet #{price} Cent."
 		else
 			$("#out").html "Der Mist (" + @name + ") ist alle"
