@@ -1,4 +1,6 @@
-class Automat
+window.CT ?= {}
+
+class CT.Automat
 	constructor: (@name) ->
 
 	getBeverage: (price) ->
@@ -7,13 +9,3 @@ class Automat
 		else 
 			$("#Output").html "Der Vorrat von " + @name + " ist aufgebraucht."
 
-coffee = new Coffee "Kaffee"
-tea = new Tea "Tee"
-broth = new Broth "Gemüsebrühe"
-
-$("#coffee").click ->
-	coffee.getBeverage()
-$("#tea").click ->
-	tea.getBeverage()
-$("#broth").click ->
-	broth.getBeverage()

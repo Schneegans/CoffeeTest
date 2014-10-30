@@ -1,4 +1,6 @@
-class Coffee extends Automat
+window.CT ?= {}
+
+class CT.Coffee extends CT.Automat
 	price = 80
 	amount = 10
 	beans = 300
