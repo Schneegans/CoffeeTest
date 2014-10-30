@@ -8,20 +8,20 @@ class CT.BeverageVendor
 
   addBeverage: (beverage) ->
     switch beverage.type
-    when "coffee" then @_coffees.push beverage
-    when "tea"    then @_teas.push beverage
-    when "soup"   then @_soups.push beverage
-    else
-      console.log "Unknown beverage type #{type}!"
+      when "coffee" then @_coffees.push beverage
+      when "tea"    then @_teas.push beverage
+      when "soup"   then @_soups.push beverage
+      else
+        console.log "Unknown beverage type #{type}!"
 
   getBeverage: (type) ->
     switch type
-    when "coffee" then return @deliverBeverage type, @_coffees
-    when "tea"    then return @deliverBeverage type, @_teas
-    when "soup"   then return @deliverBeverage type, @_soups
-    else
-      console.log "Unknown beverage type #{type}!"
-      return null
+      when "coffee" then return @deliverBeverage type, @_coffees
+      when "tea"    then return @deliverBeverage type, @_teas
+      when "soup"   then return @deliverBeverage type, @_soups
+      else
+        console.log "Unknown beverage type #{type}!"
+        return null
 
   deliverBeverage: (type, beverageContainer) ->
     if beverageContainer.length > 0
