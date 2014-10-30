@@ -1,0 +1,21 @@
+.container {
+  position: relative;
+  width: 200px;
+  margin: auto;
+  background-color: #ececec;
+  padding: 50px;
+  border-radius: 20px;
+}
+.container .button {
+  width: 100%;
+  padding: 10px;
+  margin: 20px 0;
+}
+.container .button:hover {
+  background-color: red;
+}
+.container .result {
+  width: 100%;
+  text-align: center;
+  font-size: 28px;
+}

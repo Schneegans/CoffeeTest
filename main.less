@@ -1,0 +1,28 @@
+@import "variables.less";
+
+.container {
+    position: relative;
+    
+    width: @width;
+    margin: auto;
+    background-color: lighten(@color, 10%);
+    padding: 50px;
+    
+    border-radius:20px;
+    
+    .button {
+        width: 100%;
+        padding: 10px;
+        margin: 20px 0;
+
+        &:hover {
+            background-color: red;
+        }
+    }
+    
+    .result {
+        width: 100%;
+        text-align: center;
+        font-size: 28px;
+    }
+}
