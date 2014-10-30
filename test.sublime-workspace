@@ -1,0 +1,1419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"geo",
+				"geoJson"
+			],
+			[
+				"labe",
+				"labelLng"
+			],
+			[
+				"label",
+				"labelLat"
+			],
+			[
+				"myL",
+				"myLeafletLabel"
+			],
+			[
+				"lower",
+				"lowerPoints"
+			],
+			[
+				"p",
+				"push"
+			],
+			[
+				"new",
+				"newPolygon"
+			],
+			[
+				"upp",
+				"upperPoints"
+			],
+			[
+				"this",
+				"thisPoint"
+			],
+			[
+				"prev",
+				"prevPoint"
+			],
+			[
+				"next",
+				"nextPoint"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"len",
+				"lenContinVertex"
+			],
+			[
+				"OFF",
+				"BORDER_OFFSET"
+			],
+			[
+				"con",
+				"continVertex"
+			],
+			[
+				"poly",
+				"polygon"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"trans",
+				"transBorders"
+			],
+			[
+				"old",
+				"oldBorders"
+			],
+			[
+				"tran",
+				"transArea"
+			],
+			[
+				"FIN_",
+				"FIN_1809"
+			],
+			[
+				"is",
+				"isTransition"
+			],
+			[
+				"_fade",
+				"_fadeInAreaLayer"
+			],
+			[
+				"_add",
+				"_addAreaLayer"
+			],
+			[
+				"_c",
+				"_clearStyle"
+			],
+			[
+				"fill",
+				"fillColor"
+			],
+			[
+				"tra",
+				"transArea"
+			],
+			[
+				"on",
+				"onStyleChange"
+			],
+			[
+				"area",
+				"areaStyler"
+			],
+			[
+				"are",
+				"areaStyler"
+			],
+			[
+				"_are",
+				"_area_styler"
+			],
+			[
+				"min",
+				"minYear"
+			],
+			[
+				"trn",
+				"transBorders"
+			],
+			[
+				"inA",
+				"inArr_i"
+			],
+			[
+				"inArr",
+				"inArr_j"
+			],
+			[
+				"in",
+				"inArr_j"
+			],
+			[
+				"newB",
+				"newBorders"
+			],
+			[
+				"remo",
+				"_removeDuplicates"
+			],
+			[
+				"get",
+				"getBorders"
+			],
+			[
+				"add",
+				"addAreas"
+			],
+			[
+				"dele",
+				"deleteAreas"
+			],
+			[
+				"ori",
+				"orig_comm"
+			],
+			[
+				"_area",
+				"_areaStyler"
+			],
+			[
+				"Re",
+				"Republik"
+			],
+			[
+				"ati",
+				"atomicAreas"
+			],
+			[
+				"0-NOR-",
+				"0-NOR-FIN_0"
+			],
+			[
+				"ato",
+				"atomicDates"
+			],
+			[
+				"_sort",
+				"_sortDates"
+			],
+			[
+				"DN",
+				"DNK_NOR"
+			],
+			[
+				"newA",
+				"newArea"
+			],
+			[
+				"SWE_",
+				"SWE_1800"
+			],
+			[
+				"at",
+				"atomicAreas"
+			],
+			[
+				"curr",
+				"currArea"
+			],
+			[
+				"loop",
+				"loopEnd"
+			],
+			[
+				"last",
+				"lastEndDate"
+			],
+			[
+				"start",
+				"startDates"
+			],
+			[
+				"ass",
+				"assocBorders"
+			],
+			[
+				"_bor",
+				"_borToDoms"
+			],
+			[
+				"j",
+				"j_id"
+			],
+			[
+				"it",
+				"itEnd"
+			],
+			[
+				"_s",
+				"_sortBordersById"
+			],
+			[
+				"las",
+				"lastDate"
+			],
+			[
+				"de",
+				"de_full"
+			],
+			[
+				"poi",
+				"points"
+			],
+			[
+				"atomic",
+				"atomicArea"
+			],
+			[
+				"end",
+				"endDate"
+			],
+			[
+				"rem",
+				"_removeDuplicates"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"out",
+				"outArr"
+			],
+			[
+				"po",
+				"point"
+			],
+			[
+				"borde",
+				"borderToDomainsLoaded"
+			],
+			[
+				"domi",
+				"domainsLoaded"
+			],
+			[
+				"func",
+				"functionIsDone"
+			],
+			[
+				"stick",
+				"stickTogether"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"conc",
+				"concat"
+			],
+			[
+				"patch",
+				"patchPolyline"
+			],
+			[
+				"la",
+				"labelTitle"
+			],
+			[
+				"poy",
+				"polylines"
+			],
+			[
+				"pol",
+				"polyline"
+			],
+			[
+				"polyli",
+				"polylines"
+			],
+			[
+				"temp",
+				"tempArea"
+			],
+			[
+				"_init",
+				"_initGeometry"
+			],
+			[
+				"atomi",
+				"atomicDates"
+			],
+			[
+				"print",
+				"printMat"
+			],
+			[
+				"MPI_W",
+				"MPI_Waitall"
+			],
+			[
+				"MPI_Re",
+				"MPI_Request"
+			],
+			[
+				"task",
+				"taskId"
+			],
+			[
+				"stroke",
+				"stroke-width"
+			],
+			[
+				"stroke-",
+				"stroke-opacity"
+			],
+			[
+				"OPAC_",
+				"OPAC_ONUNHOVER"
+			],
+			[
+				"OP",
+				"OPAC_ONHOVER"
+			],
+			[
+				"path",
+				"pathId"
+			],
+			[
+				"_leaf",
+				"_leaflet_id"
+			],
+			[
+				"op",
+				"options"
+			],
+			[
+				"_hide",
+				"_hideBorder"
+			],
+			[
+				"ANI",
+				"ANI_TIME"
+			],
+			[
+				"call",
+				"callback"
+			],
+			[
+				"AN",
+				"ANI_TIME"
+			],
+			[
+				"_OP",
+				"_OPACITY_ONUNHOVER"
+			],
+			[
+				"_OPA",
+				"_OPACITY_ONHOVER"
+			],
+			[
+				"aus",
+				"ausblenden"
+			],
+			[
+				"er",
+				"erhöhen"
+			],
+			[
+				"be",
+				"beverage"
+			],
+			[
+				"bev",
+				"beverage"
+			],
+			[
+				"Con",
+				"constructor"
+			],
+			[
+				"ingr",
+				"ingredient"
+			],
+			[
+				"bever",
+				"beverage"
+			],
+			[
+				"my",
+				"myVendor"
+			],
+			[
+				"T",
+				"Tea"
+			],
+			[
+				"_ta",
+				"_targetCameraPos"
+			],
+			[
+				"_in",
+				"_initMembers"
+			],
+			[
+				"han",
+				"handles"
+			],
+			[
+				"Dis",
+				"Display3D"
+			],
+			[
+				"marke",
+				"markerInterval"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#! /bin/bash\n\ncoffee -c *.coffee\n",
+			"file": "make.sh",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 33,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n  \"build_systems\":\n  [\n    {\n      \"cmd\":\n      [\n        \"./make.sh\"\n      ],\n      \"file_regex\": \"^(..[^:]*):(.*)$\",\n      \"name\": \"my_test_build_system\",\n      \"working_dir\": \"${project_path}\"\n    }\n  ],\n	\"folders\":\n	[\n		{\n			\"follow_symlinks\": true,\n			\"path\": \".\",\n      \"file_exclude_patterns\":[\"*.js\"]\n		}\n	]\n}\n",
+			"file": "test.sublime-project",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 320,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.coffee",
+			"settings":
+			{
+				"buffer_size": 152,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test.less",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "my_test_build_system",
+	"command_palette":
+	{
+		"height": 125.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"subs",
+				"Snippet: Sub Section"
+			],
+			[
+				"subsub",
+				"Snippet: Sub Sub Section"
+			],
+			[
+				"citation",
+				"Snippet: Turn selection into LaTeX environment"
+			],
+			[
+				"cite",
+				"Convert Case: Title Case"
+			],
+			[
+				"subse",
+				"Snippet: Sub Section"
+			],
+			[
+				"fig",
+				"Snippet: figure"
+			],
+			[
+				"git log",
+				"Git: Log Current File"
+			],
+			[
+				"git lo",
+				"Git: Log Current File"
+			],
+			[
+				"tabul",
+				"Snippet: Tabular"
+			],
+			[
+				"enum",
+				"Snippet: Enumerate"
+			],
+			[
+				"itemi",
+				"Snippet: Itemize"
+			],
+			[
+				"figur",
+				"Snippet: Figure"
+			],
+			[
+				"subsec",
+				"Snippet: Sub Section"
+			],
+			[
+				"suns",
+				"Snippet: Sub Section"
+			],
+			[
+				"figu",
+				"Snippet: figure"
+			],
+			[
+				"item",
+				"Snippet: Itemize"
+			],
+			[
+				"sunse",
+				"Snippet: Sub Section"
+			],
+			[
+				"sec",
+				"Snippet: Section"
+			],
+			[
+				"subsubs",
+				"Snippet: Sub Sub Section"
+			],
+			[
+				"par",
+				"Snippet: Paragraph"
+			],
+			[
+				"para",
+				"Snippet: Paragraph"
+			],
+			[
+				"paragr",
+				"Snippet: Paragraph"
+			],
+			[
+				"tabl",
+				"Snippet: table"
+			],
+			[
+				"aubs",
+				"View: Toggle Status Bar"
+			],
+			[
+				"sect",
+				"Snippet: Section"
+			],
+			[
+				"table",
+				"Snippet: table"
+			],
+			[
+				"tabular",
+				"Snippet: Tabular"
+			],
+			[
+				"ssec",
+				"Snippet: Sub Sub Section"
+			],
+			[
+				"ssub",
+				"Snippet: Sub Sub Section"
+			],
+			[
+				"enumer",
+				"Snippet: Enumerate"
+			],
+			[
+				"subub",
+				"Snippet: Sub Sub Section"
+			],
+			[
+				"desc",
+				"Snippet: Description"
+			],
+			[
+				"FIG",
+				"Snippet: figure"
+			],
+			[
+				"ite",
+				"Snippet: Itemize"
+			],
+			[
+				"list",
+				"Snippet: Listing"
+			],
+			[
+				"enu",
+				"Snippet: Enumerate"
+			],
+			[
+				"it",
+				"Snippet: Itemize"
+			],
+			[
+				"en",
+				"Snippet: Enumerate"
+			],
+			[
+				"tab",
+				"Snippet: Tabular"
+			],
+			[
+				"git bra",
+				"Git: New Branch"
+			],
+			[
+				"git new",
+				"Git: New Branch"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git a",
+				"Git: Add..."
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git:",
+				"Git: Gui"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"stas",
+				"Git: Stash Changes"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"syn co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"the",
+				"QuickThemes: next"
+			],
+			[
+				"them",
+				"QuickThemes: next"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"select",
+				"Bookmarks: Select All"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublmi",
+				"Preferences: SublimeLinter Settings – Default"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"bash",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/marcus/Projects/CoffeeTest/Tea.coffee",
+		"/home/marcus/Projects/CoffeeTest/Soup.coffee",
+		"/home/marcus/Projects/CoffeeTest/main.coffee",
+		"/home/marcus/Projects/CoffeeTest/Coffee.coffee",
+		"/home/marcus/Projects/CoffeeTest/BeverageVendor.coffee",
+		"/home/marcus/Projects/CoffeeTest/Beverage.coffee",
+		"/home/marcus/Projects/CoffeeTest/test.html",
+		"/home/marcus/Projects/CoffeeTest/.gitignore",
+		"/home/marcus/Desktop/Kaffee-Hiwi",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/VimariaVenezia-1-ThüringenFranken.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/VimariaVenezia-2-RomantischeStraße.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/VimariaVenezia-3-ViaClaudiaAugusta.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe17.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe16.2.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe16.1.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe15.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe14.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe13.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe12.2.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe12.1.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe11.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/3Vimaria-veneziaEtappe10.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/2Vimaria-veneziaEtappe09.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/2Vimaria-veneziaEtappe08.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/2Vimaria-veneziaEtappe07.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/2Vimaria-veneziaEtappe06.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/1Vimaria-veneziaEtappe05.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/1Vimaria-veneziaEtappe04.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/1Vimaria-veneziaEtappe03.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/1Vimaria-veneziaEtappe02.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/1Vimaria-veneziaEtappe01.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe17.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe16.2.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe16.1.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe15.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe14.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe13.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe12.2.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe12.1.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe11.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe10.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe09.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe08.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe07.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe06.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe05.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/VimariaVenezia-1-Thüringen.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe04.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/VimariaVenezia-2-Frankenland",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe03.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe02.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/VimairaVenezia-fullRoute.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/parts/Vimaria-veneziaEtappe01.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe17.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe16.2.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe16.1.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe15.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe14.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe13.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe12.2.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe12.1.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe11.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe10.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe09.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe08.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe07.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe06.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe05.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe04.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe03.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe121.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe122.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe161.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe162.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe02.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/Vimaria-veneziaEtappe01.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/kml/Vimaria-veneziaEtappe01.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/kml/Vimaria-veneziaEtappe02.kml",
+		"/home/marcus/Desktop/VimariaVenezia/Route/js/Vimaria-veneziaEtappe01.js",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-impl.tex",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis.bib",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-part6.tex",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-part5.tex",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-part1.tex",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-part4.tex",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-part2.tex",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-sum.tex",
+		"/home/marcus/Studies/Bachelor/D) Sonstiges/3) Abschlussarbeit/BA_Kossatz/Arbeit/Kapitel/2-Grundlagen.tex",
+		"/home/marcus/Studies/Bachelor/D) Sonstiges/3) Abschlussarbeit/BA_Kossatz/Arbeit/Kapitel/3-Konzept.tex",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-frame.bbl",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-part3.tex",
+		"/home/marcus/HistoGlobe/WWWW/index.php",
+		"/home/marcus/Studies/Master/F) Projects and Thesis/Webbased Historical Visualisation/Paper/paper/histovis-pre.tex",
+		"/home/marcus/Desktop/Link to Paper/paper/histovis-part4.tex",
+		"/home/marcus/HistoGlobe/HistoGlobeWebsite/index.html",
+		"/home/marcus/Desktop/Link to Paper/paper/histovis.sublime-project",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/sdw/data/sdw_projectEvent.csv",
+		"/home/marcus/Studies/Master/Advanced HCI/assignment 2/A-Interview/Transcript-Sorayya.txt",
+		"/run/user/1000/gvfs/ftp:host=ftp.mensch-marcus.de,user=mensc1/index.php",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/sdw/modules.json",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/sdw/data/sdw_event.csv",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/sdw/data/statistics_program_participants.dsv",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/sdw/data/statistics_scholars.dsv",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/sdw/data/sdw_medium.csv",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/compute_acm.m",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/compute_corner.m",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/main.m",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/compute_round.m",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/contrast_stretching.m",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/convolution.m",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/gradients_of_gaussian.m",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/img_to_gray.m",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/common/countries/bundeslaender.json",
+		"/tmp/nsmail.bin",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment2/octave-core",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/sixt/modules.json",
+		"/home/marcus/HistoGlobe/HistoGlobe/style/modules/sidebar/vip_widget.less",
+		"/home/marcus/HistoGlobe/HistoGlobe/script/sidebar/VIPWidget.coffee",
+		"/home/marcus/HistoGlobe/HistoGlobe/make.sh",
+		"/home/marcus/Desktop/test.csv",
+		"/home/marcus/HistoGlobe/HistoGlobe/config/sdw/data/sdw_projects.csv",
+		"/home/marcus/HistoGlobe/HistoGlobe/script/modules/help/Help.coffee",
+		"/home/marcus/HistoGlobe/HistoGlobe/script/sidebar/Widget.coffee",
+		"/home/marcus/HistoGlobe/HistoGlobe/script/screenspace/Title.coffee",
+		"/home/marcus/HistoGlobe/HistoGlobe/script/sidebar/PictureGalleryWidget.coffee",
+		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment1/octave-core",
+		"/home/marcus/Dropbox/Usability Engineering/final presentation/content/3-results.tex",
+		"/home/marcus/Dropbox/Usability Engineering/final presentation/content/1-scope.tex"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/marcus/HistoGlobe/HistoGlobe",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"=",
+			" =",
+			"when",
+			"deliverBeverage",
+			";",
+			"</coordinates>\n        </LineString>\n      </MultiGeometry>\n    </Placemark>\n  </Document>\n</kml>\n\n",
+			"letzter Zugriff",
+			"Bank",
+			"- ",
+			"--",
+			"SCHULEWIRT",
+			"Zeig",
+			"Zeig, was",
+			"-",
+			"dateMarkerAtIndexOverlappsAnOtherDateMarker",
+			"pagination",
+			"Details der Projektgeschichte anzeigen!",
+			"Area",
+			"\"text\" :",
+			" \"<",
+			"        \"text\" : ",
+			"\"text\" :",
+			"ea8303",
+			"Hauptförderer",
+			"Ziel",
+			"ziel",
+			"gezielt",
+			"Ziel",
+			"ziel",
+			"Ziel",
+			"P",
+			"P16",
+			"P",
+			";",
+			"name",
+			"Mediengallerie",
+			"transition",
+			"t",
+			"tr",
+			"tra",
+			"transi",
+			"news",
+			"http:",
+			"mapping",
+			"SCHULEWIRT",
+			"  ",
+			"<br/> Hauptförderer",
+			"Ziel",
+			"mediaId",
+			"M151",
+			"Yoga",
+			"item",
+			"todo",
+			"itemize",
+			"ea8303",
+			"adm0_a3",
+			"12.46875, 54.40625",
+			"US",
+			"f07b09",
+			"exemplum",
+			"Exemplum",
+			"exemplum",
+			"Exemplum",
+			"exemplum",
+			"TILE_PA",
+			"tiles",
+			"2010",
+			"A65F00",
+			"FF9200",
+			"CD0074",
+			"exemplum",
+			"_closePolygon",
+			"SWE-N",
+			"bg",
+			"1826-NOR-RUS",
+			"826-NOR-FIN",
+			"1826-NOR-FIN",
+			"1826-NOR-R",
+			"1905-06-07",
+			"NOR-FIN",
+			"\"id\": \"185",
+			"\"id\": \"186",
+			"\"id\": \"187",
+			"\"id\": \"188",
+			"\"id\": \"189",
+			"189",
+			"areaSt",
+			"areaStyler",
+			"_deleteAreaLayer",
+			"_fadeoutAreaLayer",
+			"_fadeInAreaLayer",
+			"0033ff",
+			"getNormalStyle",
+			"_style",
+			"    @_style",
+			"@_style",
+			"@_visibleAreas",
+			"styleChange",
+			"Area",
+			"area",
+			"_onStyleChange",
+			"@_style",
+			"_areaStyler",
+			"area_styler",
+			"_style",
+			"onStyleChange",
+			"style",
+			"anim",
+			"styler",
+			"minYe",
+			"minYear",
+			"_nowDate",
+			"_active",
+			"area",
+			"Area",
+			"area",
+			"at",
+			"remove",
+			"style",
+			"_areaStyler",
+			"area_styler",
+			"@_style",
+			"_area_styler",
+			"1815-DNK-3_0",
+			"1815-DNK-3_",
+			"1815-DNK-3",
+			"10.616272, 53.406698",
+			"0-NOR-RUS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"Accessed",
+			"Projektstandorte anzeigen!",
+			"\naaa",
+			"\n",
+			"\\n",
+			"exemplum",
+			"area",
+			"_areaStyler",
+			"area_styler",
+			"area",
+			"area_styler",
+			"name_orig_full",
+			"_comm",
+			"_full",
+			"name_de",
+			"name_en",
+			"name_orig",
+			"null",
+			"DNK",
+			"",
+			"atomicAreas",
+			"\"id\"",
+			"newPolyline",
+			"atomicDates",
+			"polylines",
+			"startDates",
+			"len",
+			"",
+			"urldate",
+			"\\caption*{",
+			"C{23px}",
+			",",
+			"C{25px}",
+			"{Aufgabenstellung}",
+			"Visualisierung",
+			"gesunken",
+			"Weltregionen",
+			"include",
+			"sub",
+			"ssub",
+			"Grafiken",
+			"Lernmaterial",
+			"Einschätzungsfrage",
+			"",
+			"sedlmeier",
+			"^sedlmeier",
+			"^",
+			"@_",
+			" @",
+			"",
+			"# ===========",
+			"this.",
+			"@",
+			"----------------------------------------------------------------------------",
+			"this.",
+			"@_my",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "make.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								320,
+								320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test.coffee",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 152,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "test.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ig",
+				".gitignore"
+			],
+			[
+				"me",
+				"lib/menu/Menu.vala"
+			],
+			[
+				"tr",
+				"plugins/TraceMenu/TraceMenu.vala"
+			],
+			[
+				"path",
+				"lib/utilities/Paths.vala"
+			],
+			[
+				"dis",
+				"/var/www/HistoGlobe/script/display/Display3D.coffee"
+			],
+			[
+				"",
+				"/var/www/HistoGlobe/script/display/Display.coffee"
+			],
+			[
+				"di",
+				"/var/www/HistoGlobe/script/display/Display3D.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/histoglobe/Abschlussarbeit/BA_Kossatz/Arbeit/build.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 453.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
