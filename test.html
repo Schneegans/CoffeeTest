@@ -1,17 +1,15 @@
 <html>
 <head>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="test.css" />
 </head>
 <body>
-
-    <input type="button" value="Kaffee" id="kaffee"/> <br/>
-    <input type="button" value="Tee" id="tee"/> <br/>
-    <input type="button" value="Suppe" id="suppe"/>  <br/>
-
-
-
-     <span id="c"/>
-    
+    <div class="container">
+        <div class="entry"> A: <input type="text" id="a"/></div>
+        <div class="entry"> B: <input type="text" id="b"/></div>
+        <input class="button" type="button" value="Calculate GCD!" id="button"/>
+        <div class="result"> Result: <span id="c"/></div>
+    </div>
     <script src="test.js"></script>
 </body>
 </html>
