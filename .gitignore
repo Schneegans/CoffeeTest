@@ -1,2 +1,5 @@
 *.js
+*.css
+*.sublime-workspace
+*.sublime-project
 
