@@ -26,8 +26,8 @@ class CT.BeverageVendor
   deliverBeverage: (type, beverageContainer) ->
     if beverageContainer.length > 0
       beverage = beverageContainer.pop()
-      console.log "The price for your #{type} is #{beverage.price}."
+      console.log "Der Preis von Ihrem #{type} ist: #{beverage.price}."
       return beverage
     else
-      console.log "Sorry, I am out of #{type}!"
+      console.log "Sorry, ich hab kein #{type} mehr!"
       return null
