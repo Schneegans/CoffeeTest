@@ -1,12 +1,5 @@
 @width: 200px;
 @color: darkred;
-@color2: #653333;
-
-.box-shadow (@x: 0px, @y: 3px, @blur: 5px, @alpha: 0.5) {
-    -webkit-box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
-    -moz-box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
-    box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
-}
 
 .cool-button(@colour){
     font-family:Oswald;
@@ -23,10 +16,10 @@
     color:#fff;
     width:100%;
     text-align:center;
-    padding:10px;
+    padding: 10px;
     border-radius:5px;
     border:2px solid darken(@colour,15%);
-    margin:20px 0;
+    margin:14px 0;
     box-shadow:0 10px 5px -5px rgba(0,0,0,0.5), 0 5px 25px fade(@colour,50%);
     transition:all 100ms ease;
   
@@ -58,15 +51,15 @@
 
 .container {
     position: relative;
-    top: 50%;
-	 transform: translateY(-50%);
+    top: 40%;
+	 transform: translateY(-40%);
     width: @width;
     margin: auto;
-    padding: 50px;
+    padding: 100px;
 
-    background-color: @color2;
-    border-radius:20px;
-	 .box-shadow(5px, 5px, 6px, 0.3);
+	 background: url("vendor.png");
+	 background-size: 400px Auto;
+    background-repeat: no-repeat;
+    background-color: transparent;
 	 .button{.cool-button(darkred);}
-
 }
