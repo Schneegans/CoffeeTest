@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 10,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -53,8 +45,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/chris/Arbeitsfläche/CoffeeTest"
+	],
 	"file_history":
 	[
+		"/home/chris/Arbeitsfläche/CoffeeTest/.gitignore",
 		"/home/chris/Arbeitsfläche/Automat/make.sh",
 		"/home/chris/Arbeitsfläche/Automat/Tea.coffee",
 		"/home/chris/Arbeitsfläche/Automat/Coffee.coffee",
@@ -64,7 +61,6 @@
 		"/home/chris/Arbeitsfläche/Automat/test.html",
 		"/home/chris/Arbeitsfläche/CoffeeTest/Tea.coffee",
 		"/home/chris/Arbeitsfläche/CoffeeTest/test.html",
-		"/home/chris/Arbeitsfläche/CoffeeTest/.gitignore",
 		"/home/chris/Arbeitsfläche/CoffeeTest/Coffee.coffee",
 		"/home/chris/Arbeitsfläche/CoffeeTest/Broth.coffee",
 		"/home/chris/Arbeitsfläche/CoffeeTest/vendor.coffee",
@@ -108,37 +104,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".gitignore",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10,
-								10
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
