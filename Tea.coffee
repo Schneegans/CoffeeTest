@@ -2,5 +2,5 @@ window.CT ?= {}
 
 class CT.Tea extends CT.Beverage
   constructor: (flavour) ->
-    super "Tee", "0.50 €"
+    super "tea", "0.90 €"
     @flavour = flavour
