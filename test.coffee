@@ -1,37 +1,50 @@
 
-$("#kaffee").click -> 
-	coffee.serve()
-	$("#c").html coffee.fill
-$("#tee").click -> 
-	tee.serve()
-	$("#c").html tee.fill
-$("#suppe").click -> 
-	soup.serve()
-	$("#c").html soup.fill
+$("#kaffeeButton").click -> 
+	console.log "Coffee ordered"
+	coffee.pay()
 
+$("#teeButton").click -> 
+	console.log "Tee ordered"
+	tee.pay()
+
+$("#brothButton").click ->
+	console.log "Broth ordered"
+	soup.pay()
+
+	
 
 class Bevarage
 	constructor: (@prize ; @fill)->
+		console.log "Bevarage filled with #{prize} and #{fill}"
 
-	serve:->
+	serve: =>		
+		alert "test"
 		if @fill < 1
-			alert "Bevarage empty"
+			$("#output").html "Getraenk leider leer"
 		else
 			@fill=@fill-1
+			$("#output").html "Bitte entnehmen!"
+	pay: =>		
+		@paid = false
+		$("#output").html "Kostet #{@prize} Euro"			
+		$("#pay").click -> 
+			@paid=true
+			console.log "Bevarage payed: #{@paid}"			
+			@serve()
 
 class Coffee extends Bevarage
+	pay: ->
+		super	
 	serve: ->
-		super
-	gramBeans=5
+		alert "test"
 
 class Tee extends Bevarage
-	serve: ->
-		super
-	type=""Weiß"
+
 class Soup extends Bevarage
 	serve: ->
 		super
-	listOfContents = ["Wasser","Salz"]
+	pay: ->
+		super
 
 coffee=new Coffee(0.3,10)
 
