@@ -1,0 +1,32 @@
+@height: 400px;
+@hwidth: 1000px;
+
+.box-shadow (@x: 0px, @y: 3px, @blur: 5px, @alpha: 0.5) {
+	-webkit-box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
+	-moz-box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
+	box-shadow: @x @y @blur rgba(0, 0, 0, @alpha);
+}
+
+.border-radius (@radius: 5px) {
+    -webkit-border-radius: @radius;
+    -moz-border-radius: @radius;
+    border-radius: @radius;
+}
+
+h1 {
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 3px 3px 6px #000000;
+	padding: 20px;
+}
+
+#map {
+	position: relative;
+	top: 50%;
+	transform: translateY(8%);
+    margin: auto;
+    height: @height;
+    width: @hwidth;
+    .border-radius(5px);
+	.box-shadow(10px, 10px, 6px, 0.3);
+}
