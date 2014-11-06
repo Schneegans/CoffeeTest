@@ -472,67 +472,28 @@
 	"buffers":
 	[
 		{
-			"file": "test.coffee",
+			"file": "map.html",
 			"settings":
 			{
-				"buffer_size": 152,
+				"buffer_size": 487,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "test.html",
+			"file": "map.coffee",
 			"settings":
 			{
-				"buffer_size": 717,
+				"buffer_size": 705,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "Beverage.coffee",
+			"file": "map.less",
 			"settings":
 			{
-				"buffer_size": 103,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "BeverageVendor.coffee",
-			"settings":
-			{
-				"buffer_size": 980,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Coffee.coffee",
-			"settings":
-			{
-				"buffer_size": 145,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "main.coffee",
-			"settings":
-			{
-				"buffer_size": 651,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Soup.coffee",
-			"settings":
-			{
-				"buffer_size": 145,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Tea.coffee",
-			"settings":
-			{
-				"buffer_size": 131,
-				"line_ending": "Unix"
+				"buffer_size": 26,
+				"line_ending": "Unix",
+				"name": "#map { height: 180px; }"
 			}
 		}
 	],
@@ -861,6 +822,22 @@
 	},
 	"file_history":
 	[
+		"/home/marcus/Studies/Organisation/Stipendium (Förderstipendium)/Argumente",
+		"/home/marcus/Desktop/CogSys/ProjectFolder/Excercise_1.lisp",
+		"/home/marcus/Projects/WebTechTest/make.sh",
+		"/home/marcus/Projects/WebTechTest/leaflet.html",
+		"/home/marcus/Projects/WebTechTest/variables.less",
+		"/home/marcus/Projects/WebTechTest/main.less",
+		"/home/marcus/Projects/WebTechTest/test.html",
+		"/home/marcus/Desktop/GTMA/Mitschriften",
+		"/home/marcus/Projects/CoffeeTest/make.sh",
+		"/home/marcus/Projects/CoffeeTest/test.coffee",
+		"/home/marcus/Projects/CoffeeTest/Beverage.coffee",
+		"/home/marcus/Projects/CoffeeTest/Tea.coffee",
+		"/home/marcus/Projects/CoffeeTest/Soup.coffee",
+		"/home/marcus/Projects/CoffeeTest/main.coffee",
+		"/home/marcus/Projects/CoffeeTest/Coffee.coffee",
+		"/home/marcus/Projects/CoffeeTest/BeverageVendor.coffee",
 		"/home/marcus/Projects/CoffeeTest/.gitignore",
 		"/home/marcus/Desktop/Kaffee-Hiwi",
 		"/home/marcus/Desktop/VimariaVenezia/Route/parts/VimariaVenezia-1-ThüringenFranken.kml",
@@ -972,23 +949,7 @@
 		"/home/marcus/HistoGlobe/HistoGlobe/config/sixt/modules.json",
 		"/home/marcus/HistoGlobe/HistoGlobe/style/modules/sidebar/vip_widget.less",
 		"/home/marcus/HistoGlobe/HistoGlobe/script/sidebar/VIPWidget.coffee",
-		"/home/marcus/HistoGlobe/HistoGlobe/make.sh",
-		"/home/marcus/Desktop/test.csv",
-		"/home/marcus/HistoGlobe/HistoGlobe/config/sdw/data/sdw_projects.csv",
-		"/home/marcus/HistoGlobe/HistoGlobe/script/modules/help/Help.coffee",
-		"/home/marcus/HistoGlobe/HistoGlobe/script/sidebar/Widget.coffee",
-		"/home/marcus/HistoGlobe/HistoGlobe/script/screenspace/Title.coffee",
-		"/home/marcus/HistoGlobe/HistoGlobe/script/sidebar/PictureGalleryWidget.coffee",
-		"/home/marcus/Desktop/Image Analysis and Object Recognition/assignment1/octave-core",
-		"/home/marcus/Dropbox/Usability Engineering/final presentation/content/3-results.tex",
-		"/home/marcus/Dropbox/Usability Engineering/final presentation/content/1-scope.tex",
-		"/home/marcus/Dropbox/Usability Engineering/final presentation/content/4-reflection.tex",
-		"/home/marcus/Dropbox/Usability Engineering/final presentation/content/2-evolution.tex",
-		"/home/marcus/HistoGlobe/HistoGlobe/config/leibinger/modules.json",
-		"/home/marcus/HistoGlobe/HistoGlobe/config/leibinger/style.rose",
-		"/home/marcus/HistoGlobe/HistoGlobe/script/areas/Area.coffee",
-		"/home/marcus/HistoGlobe/HistoGlobe/config/leibinger/data/countries.json",
-		"/home/marcus/HistoGlobe/HistoGlobe/config/leibinger/data/country_mapping.json"
+		"/home/marcus/HistoGlobe/HistoGlobe/make.sh"
 	],
 	"find":
 	{
@@ -1211,52 +1172,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "test.coffee",
+					"file": "map.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 152,
+						"buffer_size": 487,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								152,
-								152
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "test.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 717,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								717,
-								717
+								487,
+								487
 							]
 						],
 						"settings":
@@ -1267,24 +1200,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "Beverage.coffee",
+					"buffer": 1,
+					"file": "map.coffee",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 103,
+						"buffer_size": 705,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								574,
+								574
 							]
 						],
 						"settings":
@@ -1299,147 +1232,32 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "BeverageVendor.coffee",
+					"buffer": 2,
+					"file": "map.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 980,
+						"buffer_size": 26,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								706,
-								706
+								18,
+								18
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"auto_name": "#map { height: 180px; }",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "Coffee.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 145,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "main.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 651,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "Soup.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 145,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "Tea.coffee",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 131,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CoffeeScript/CoffeeScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
