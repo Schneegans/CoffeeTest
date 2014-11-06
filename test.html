@@ -2,6 +2,7 @@
 <head>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="main.css">
+    <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 </head>
 <body class="bg">
     <div class="container">
@@ -15,7 +16,24 @@
         <hr/>
         Ausgabe: <span id="out"></span>
     </div>
+    <br/>
+    <div class="container">
+        <b>Verkaufsstandorte:</b>
+        <br/><br/>
+        <div id="map"></div>
+    </div>
+    <br/>
+    <div class="container">
+        <span id="outEdeka"></span>
+        <br/>
+        <span id="outDenkmal"></span>
+        <br/>
+        <span id="outTrain"></span>
+    </div>
     
     <script src="test.js"></script>
+    <script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+    <script src="map.js"></script>
+    
 </body>
 </html>

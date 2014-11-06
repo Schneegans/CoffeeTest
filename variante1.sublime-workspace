@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"b",
+				"br"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
 				"back",
 				"background-size"
 			],
@@ -40,34 +48,18 @@
 	"buffers":
 	[
 		{
-			"file": "make.sh",
-			"settings":
-			{
-				"buffer_size": 56,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "test.html",
 			"settings":
 			{
-				"buffer_size": 699,
+				"buffer_size": 1223,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "main.less",
+			"file": "map.coffee",
 			"settings":
 			{
-				"buffer_size": 482,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "test.less",
-			"settings":
-			{
-				"buffer_size": 33,
+				"buffer_size": 1128,
 				"line_ending": "Unix"
 			}
 		}
@@ -107,13 +99,17 @@
 	],
 	"file_history":
 	[
+		"/home/max/CoffeeTest/test.coffee",
+		"/home/max/CoffeeTest/main.less",
 		"/home/max/CoffeeTest/test.less",
+		"/home/max/CoffeeTest/map.js",
+		"/home/max/CoffeeTest/map.coffee",
+		"/home/max/CoffeeTest/make.sh",
+		"/home/max/CoffeeTest/background.less",
+		"/home/max/CoffeeTest/menue.less",
 		"/home/max/CoffeeTest/test.html",
 		"/home/max/Schreibtisch/Unbenanntes Dokument",
 		"/home/max/CoffeeTest/.gitignore",
-		"/home/max/CoffeeTest/make.sh",
-		"/home/max/CoffeeTest/main.less",
-		"/home/max/CoffeeTest/test.coffee",
 		"/home/max/CoffeeTest/test.js",
 		"/home/max/CoffeeTest (Kopie)/test.coffee"
 	],
@@ -151,52 +147,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "make.sh",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 56,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "test.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 699,
+						"buffer_size": 1223,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								203,
-								203
+								870,
+								870
 							]
 						],
 						"settings":
@@ -206,62 +174,32 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 126.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "main.less",
+					"buffer": 1,
+					"file": "map.coffee",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 482,
+						"buffer_size": 1128,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								20,
-								20
+								410,
+								410
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "test.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 33,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								33,
-								33
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -354,7 +292,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 161.0,
+	"side_bar_width": 231.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
